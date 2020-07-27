@@ -26,6 +26,8 @@ public class QueueExample {
     } 
 } 
 /*
+  
+     FIFO (inserted first will be removed first)
     Output :
     
     Elements of queue [0, 1, 2, 3, 4]
