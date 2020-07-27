@@ -24,6 +24,8 @@ public class StackAndArray {
 	}
 }
 /*
+	LIFO :  last in first out.
+	
  Output :
  			{}
 			0
