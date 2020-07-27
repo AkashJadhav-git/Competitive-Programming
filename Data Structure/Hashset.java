@@ -1,6 +1,6 @@
 import java.util.*; 
   
-class Test 
+class HashsetExample
 { 
     public static void main(String[]args) 
     { 
