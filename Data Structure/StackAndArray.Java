@@ -5,7 +5,7 @@ public class StackAndArray {
 	public static void main(String[] args) {
 		
 		for(int j = 0; j<4; j++) {
-				Scanner sc = new Scanner(System.in);	
+			Scanner sc = new Scanner(System.in);	
 				String input = sc.next();
 				Stack<Character> stack = new Stack<Character>();
 				char array[] = input.toCharArray();
@@ -35,9 +35,9 @@ public class StackAndArray {
 /*
  		Create the stack :	Stack<Character> stack = new Stack<Character>();
  		Display element  :	stack.peek();
- 		Add element		 :	stack.push(i);
+ 		Add element	 :	stack.push(i);
  		remove element 	 :	stack.pop();
- 		Find Size		 :  stack.size();
- 		To find empty	 :  stack.isEmpty();
+ 		Find Size	 :      stack.size();
+ 		To find empty	 :      stack.isEmpty();
  
  */
